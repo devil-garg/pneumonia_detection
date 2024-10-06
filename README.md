@@ -4,7 +4,7 @@ This project implements and compares three deep learning models (ResNet, DenseNe
 
 ## Dataset
 
-The project uses the Pneumonia dataset from GitHub, which contains chest X-ray images categorized into pneumonia and normal cases.
+The project uses the Pneumonia dataset from [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) , which contains chest X-ray images categorized into pneumonia and normal cases.
 
 ## Models
 
@@ -45,7 +45,7 @@ After training, the best performance was achieved by the VGG16 model:
 To replicate the results or use the trained models:
 
 1. Clone this repository
-2. Install the required dependencies (list them here)
+2. Install the required dependencies 
 3. Run the Jupyter notebooks for each model to train and evaluate
 
 ## Future Work
@@ -54,10 +54,5 @@ To replicate the results or use the trained models:
 - Experiment with ensemble methods to combine the strengths of different models
 - Collect and incorporate more diverse data to improve generalization
 
-## Contributors
 
-(Your name or team members' names here)
 
-## License
-
-(Specify the license under which you're releasing this project)
