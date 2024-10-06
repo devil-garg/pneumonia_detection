@@ -54,5 +54,8 @@ To replicate the results or use the trained models:
 - Experiment with ensemble methods to combine the strengths of different models
 - Collect and incorporate more diverse data to improve generalization
 
+## colab link
+https://colab.research.google.com/drive/1XQofKtEuddoC-001eigxMtMc5O5lLE84#scrollTo=75OhZ0ZndXpB
+
 
 
